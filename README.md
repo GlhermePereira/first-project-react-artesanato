@@ -1,8 +1,9 @@
 # Mobile II - Trabalho 01: Aplicativo de Cards em React Native com Expo
 
-**Data de conclusão:** 31 de agosto de 2025
 
-**Autor(es):** \[Seu Nome / Dupla]
+**Autor(es):** \[Guilherme Pereira]
+**Disciplina:** Programação para Dispositivos Móveis  
+**Professor:** Eulaliane Gonçalves
 
 ---
 
