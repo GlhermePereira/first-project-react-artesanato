@@ -7,7 +7,6 @@ import HorizontalCard from "./components/HorizontalCard";
 import VerticalCard from "./components/VerticalCard";
 import CategoryCard from "./components/CategoryCard";
 
-// 10 produtos em destaques horizontais
 const featuredProducts = [
   { id: "1", title: "Vaso de Cerâmica", image: require("./assets/vaso-de-ceramica.jpg") },
   { id: "2", title: "Colar de Madeira", image: require("./assets/colar-de-madeira.jpg") },
@@ -21,7 +20,7 @@ const featuredProducts = [
   { id: "10", title: "Porta-Retrato", image: require("./assets/Porta-Retrato.jpg") },
 ];
 
-// 10 produtos verticais (ordem diferente)
+
 const products = [
   { id: "1", title: "Porta-Retrato", image: require("./assets/Porta-Retrato.jpg") },
   { id: "2", title: "Cesto de Palha", image: require("./assets/cesto-palha.jpg") },
@@ -35,7 +34,6 @@ const products = [
   { id: "10", title: "Brincos Artesanais", image: require("./assets/brincos-artesanais.jpg") },
 ];
 
-// Categorias adicionais
 const categories = [
   { id: "1", title: "Decoração", color: "#FF69B4" },
   { id: "2", title: "Bijuterias", color: "#FF1493" },

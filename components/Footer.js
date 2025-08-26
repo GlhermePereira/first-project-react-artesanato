@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
   container: {
     paddingVertical: 25,
     paddingHorizontal: 20,
-    backgroundColor: "#FF7FA9", // tom rosa suave
+    backgroundColor: "#FF7FA9", 
     alignItems: "center",
     justifyContent: "center",
     borderTopLeftRadius: 20,
