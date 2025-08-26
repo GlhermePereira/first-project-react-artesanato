@@ -1,5 +1,5 @@
 import React from "react";
-import { View, Text, TouchableOpacity, StyleSheet, Platform } from "react-native"; // <- Platform é opcional
+import { View, Text, TouchableOpacity, StyleSheet, Platform } from "react-native"; 
 
 export default function TopMenu() {
   return (

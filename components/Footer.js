@@ -67,7 +67,7 @@ const styles = StyleSheet.create({
     paddingVertical: 6,
     paddingHorizontal: 12,
     borderRadius: 12,
-    transitionDuration: "200ms", // só funciona na web
+    transitionDuration: "200ms", 
   },
   linkText: {
     color: "#fff",
